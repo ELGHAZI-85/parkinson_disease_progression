@@ -1,6 +1,4 @@
 # Kaggle Competition : AMP®-Parkinson's Disease Progression Prediction
-
-# parkinson_disease_progression
 Parkinson's disease is a chronic and progressive neurodegenerative disorder that affects the central nervous system. It is caused by the loss of dopamine-producing cells in the brain, resulting in a variety of motor and non-motor symptoms.
 
 # Our role: 
